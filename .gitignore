@@ -1,0 +1,10 @@
+/node_modules
+
+*_templ.go*
+*_templ.txt
+.env
+.envrc
+bin
+tmp
+
+/.vscode/cspell.json

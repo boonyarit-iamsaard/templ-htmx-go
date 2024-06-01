@@ -1,0 +1,28 @@
+{
+  "cSpell.ignorePaths": [
+    ".git/objects",
+    ".vscode",
+    ".vscode-insiders",
+    "node_modules",
+    "package.json",
+    "pnpm-lock.yaml",
+    "vscode-extension"
+  ],
+  "css.lint.unknownAtRules": "ignore",
+  "editor.formatOnSave": true,
+  // exclude templ generated files
+  "files.exclude": {
+    "**/*_templ.go": true,
+    "**/*_templ.txt": true
+  },
+  "emmet.includeLanguages": {
+    "templ": "html"
+  },
+  "eslint.validate": [],
+  "tailwindCSS.includeLanguages": {
+    "templ": "html"
+  },
+  "[templ]": {
+    "editor.defaultFormatter": "a-h.templ"
+  }
+}

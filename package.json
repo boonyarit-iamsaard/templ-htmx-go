@@ -1,0 +1,12 @@
+{
+  "name": "templ-htmx-go",
+  "version": "1.0.0",
+  "scripts": {},
+  "keywords": [],
+  "author": "Boonyarit Iamsa-ard",
+  "license": "ISC",
+  "packageManager": "pnpm@9.1.4",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
